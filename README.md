@@ -1,186 +1,24 @@
-<h1 align="center">Hi 👋, I'm Priyam Shrivastava</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Problem Solver</h3>
+# 💫 About Me:
+🔭 I’m currently working on  <br>Building scalable Java backend systems using Spring Boot and PostgreSQL<br><br>👯 I’m looking to collaborate on  <br>Backend-focused projects, MERN stack apps, and impactful open-source work<br><br>🤝 I’m looking for help with  <br>System design, performance optimization, and production-level backend practices<br><br>🌱 I’m currently learning  <br>Microservices, MongoDB, and advanced Data Structures & Algorithms<br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, backend architecture, and DSA<br><br>⚡ Fun fact  <br>I believe clean code is more powerful than clever code ⚡<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Problem+Solver;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=550&height=45">
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyam-shrivastava-6484a533b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priyam Shrivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrivastavapriyam1402@gmail.com) 
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priyamshrivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=priyamshrivastava&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyamshrivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 B.Tech student passionate about **Backend Development**
-- ☕ Strong in **Java, Spring Boot & REST APIs**
-- 🧠 Focused on **Data Structures & Problem Solving**
-- 🛠️ Built real-world projects like **E-Commerce Backend & Quiz App**
-- ⚙️ Currently improving **system design & scalability**
-- 📍 India
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-> *“Clean code, clear logic, scalable systems.”*
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔗 Stack
-![MERN](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=stackshare&logoColor=white)
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🧪 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyamshrivastava&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=priyamshrivastava&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Backend (Spring Boot)
-- RESTful APIs with clean architecture
-- PostgreSQL database integration
-- Authentication & business logic
-- Scalable backend design  
-🔗 https://github.com/priyamshrivastava/ecom-springboot
-
-### 🧠 Quiz Application (Java)
-- Core Java + OOP principles
-- Score evaluation & validation
-- Console-based application  
-🔗 https://github.com/priyamshrivastava/quiz-app
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamshrivastava&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamshrivastava&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyamshrivastava/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 📧 Email: **shrivastavapriyam1402@gmail.com**
-- 💼 LinkedIn: *<h1 align="center">Hi 👋, I'm Priyam Shrivastava</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Problem+Solver;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=550&height=45">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech student passionate about **Backend Development**
-- ☕ Strong in **Java, Spring Boot & REST APIs**
-- 🧠 Focused on **Data Structures & Problem Solving**
-- 🛠️ Built real-world projects like **E-Commerce Backend & Quiz App**
-- ⚙️ Currently improving **system design & scalability**
-- 📍 India
-
-> *“Clean code, clear logic, scalable systems.”*
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔗 Stack
-![MERN](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=stackshare&logoColor=white)
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🧪 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Backend (Spring Boot)
-- RESTful APIs with clean architecture
-- PostgreSQL database integration
-- Authentication & business logic
-- Scalable backend design  
-🔗 https://github.com/priyamshrivastava/ecom-springboot
-
-### 🧠 Quiz Application (Java)
-- Core Java + OOP principles
-- Score evaluation & validation
-- Console-based application  
-🔗 https://github.com/priyamshrivastava/quiz-app
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamshrivastava&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamshrivastava&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyamshrivastava/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 📧 Email: **shrivastavapriyam1402@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/priyam-shrivastava-6484a533b/*
-- 🧑‍💻 GitHub: https://github.com/priyamshrivastava
-*
-- 🧑‍💻 GitHub: https://github.com/priyamshrivastava
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
